@@ -1,0 +1,24 @@
+# محیط مجازی
+venv10/
+env/
+.env/
+.venv/
+
+# فایل‌های کامپایل شده پایتون
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# فایل‌های پایگاه داده
+*.sqlite3
+*.db
+
+# فایل‌های لاگ و موقت
+*.log
+*.tmp
+.DS_Store
+
+# فایل‌های تنظیمات محلی (اگر دارید)
+local_settings.py
+config.local.py
